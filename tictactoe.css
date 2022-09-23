@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(124, 108, 108);
+    background-color: #162243;
+    font-family: 'Montserrat', sans-serif;
 }
 button {
     background-color: brown;
     border: none;
     border-radius: 0.5rem;
-    font-family: inherit;
     font-size: 1.5rem;
     padding: 0.7rem 0.5rem;
     }
