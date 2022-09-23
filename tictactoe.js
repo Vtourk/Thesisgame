@@ -141,7 +141,7 @@ function play (cell) {
     }
 
     mapBoard[cell] = humanPlayer;
-    msg.textContent = "";//TODO: fix that
+    msg.textContent = "Human's player turn";//TODO: fix that
 
     console.log("Human Player");
     winConditions(checkWin(humanPlayer), humanPlayer);
