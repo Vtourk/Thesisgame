@@ -52,7 +52,7 @@ restartButton.addEventListener("click", () =>{
         0, 0, 0,
     ],
     endGame = false;
-    msg.textContent = "New game X's Turn";
+    msg.textContent = "New game, Hunan's Turn";
 });
 
 function draw(){
